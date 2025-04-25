@@ -1,0 +1,4 @@
+names: ['rasied_field']
+nc: 1
+train: /home/raul.rojas/RR/dataRR/trainRR/imagesRR
+val: /home/raul.rojas/RR/dataRR/validRR/imagesRR
