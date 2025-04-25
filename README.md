@@ -1,7 +1,7 @@
 ---
 
 # 🛰️ Remote Sensing + Object Detection with YOLOv8
-
+---
 This repository contains tools and workflows for a remote sensing research project combining:
 - Satellite image processing
 - Object detection using YOLOv8
