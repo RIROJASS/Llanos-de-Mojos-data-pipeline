@@ -164,5 +164,3 @@ Institution: [Your Lab / Department / Institution]
 Email: [your.email@domain.com]
 
 ---
-
-Let me know if you'd like me to also generate a `requirements.txt`, `.gitignore`, or `LICENSE` file for this repo as I did earlier — I can create those tailored to this pipeline too.
