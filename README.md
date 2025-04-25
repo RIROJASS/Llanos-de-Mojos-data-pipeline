@@ -144,10 +144,10 @@ pip install ultralytics sahi opencv-python matplotlib pandas tqdm
 
 ## 🔍 Planned Enhancements
 
-- [ ] Add support for Pascal VOC and COCO conversion
-- [ ] Extend visualization to show false positives/negatives
-- [ ] Create GUI-based annotation checker (Gradio)
-- [ ] Publish a Jupyter-based dashboard for training metrics
+- Add support for Pascal VOC and COCO conversion
+- Extend visualization to show false positives/negatives
+- Create GUI-based annotation checker (Gradio)
+- Publish a Jupyter-based dashboard for training metrics
 
 ---
 
@@ -161,6 +161,6 @@ MIT License – see `LICENSE` file for details.
 
 Maintainer: Raul Rojas  
 Institution: AI for Bio/Cultural Diversity Lab, Florida Museum of Natural History, University of Florida
-Email: [raul.rojas@ufl.edu]
+Email: raul.rojas@ufl.edu
 
 ---
